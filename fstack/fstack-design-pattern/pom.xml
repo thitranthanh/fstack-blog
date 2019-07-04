@@ -74,7 +74,7 @@
 							<tasks>
 								<copy
 									file="${basedir}/target/${project.artifactId}-${project.version}.jar"
-									tofile="${basedir}/../../lib/globiots-common/${project.artifactId}-${project.version}.jar"></copy>
+									tofile="${basedir}/../../lib/fstack/${project.artifactId}-${project.version}.jar"></copy>
 							</tasks>
 						</configuration>
 					</execution>
