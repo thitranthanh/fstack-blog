@@ -7,6 +7,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>fstack-design-pattern</module>
+        <module>fstack-algorithm</module>
     </modules>
     <dependencies>
     </dependencies>
